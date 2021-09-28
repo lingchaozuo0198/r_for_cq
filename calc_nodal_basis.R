@@ -1,5 +1,8 @@
 #' @export
 
+print("Hello World")
+
+
 calc_nodal_basis  <- function(value_date,
                               years_back    = 5,
                               tbl_holiday   = c.tbl_holiday,
